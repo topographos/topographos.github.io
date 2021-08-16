@@ -3,17 +3,18 @@ title: "Michal Michalski"
 image: "michal.jpg"
 links:
   - label: Resume
-    url: "https://linkedin.com/"
+    url: "https://topographos.github.io/resume/index.html"
   - label: Blog
-    url: "https://medium.com/"
-  - label: Github
-    url: "https://soundcloud.com/"
+    url: "https://dispersal.rbind.io/"
+  - label: GitHub
+    url: "https://github.com/topographos/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/topographos2"
 output:
   postcards::solana
 ---
- 
+
+
 *I like maps, because they lie.  
 Because they give no access to the vicious truth.  
 Because great-heartedly, good-naturedly  
